@@ -18,8 +18,8 @@ body {
     justify-content: center;
     align-items: center;
     border: 1px solid #fff;
-    height: 50%;
-    width: 50%;
+    height: 55%;
+    width: 55%;
     backdrop-filter: blur(2px);
 }
 
